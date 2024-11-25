@@ -1,4 +1,4 @@
-package me.xxastaspastaxx.dimensions.addons.exampleaddon;
+package me.xxastaspastaxx.dimensions.addons.wormholeaddon;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -22,11 +22,11 @@ import me.xxastaspastaxx.dimensions.events.CustomPortalIgniteEvent;
  *
  */
 
-public class DimensionsExampleAddonMain extends DimensionsAddon implements Listener {
+public class DimensionsWormholeAddonMain extends DimensionsAddon implements Listener {
 	
 	//private Plugin pl;
 	
-	public DimensionsExampleAddonMain() {
+	public DimensionsWormholeAddonMain() {
 		super("ExampleAddon", "0.0.1", "An example addon", DimensionsAddonPriority.NORMAL);
 	}
 	

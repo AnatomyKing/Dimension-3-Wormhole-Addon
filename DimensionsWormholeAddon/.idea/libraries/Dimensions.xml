@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Dimensions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../plugins/libraries/Dimensions.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
